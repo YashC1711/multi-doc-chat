@@ -1,0 +1,17 @@
+2025 AI Engineering Report
+
+Model Leadership for Customer-Facing Applications
+OpenAI models dominate the top rankings for customer-facing applications. Specifically, 3 of the top 5 models and half of the top 10 most popular models in production come from OpenAI. This dominance reflects strong industry preference and trust in OpenAI’s offerings for real-world user interactions.
+
+Prevalence of Retrieval-Augmented Generation (RAG)
+A substantial 70% of AI engineers surveyed are using RAG in some form to enhance their applications. This widespread adoption highlights RAG as a mainstream technique for improving accuracy and relevance in AI outputs, signifying its essential role in production AI systems.
+
+Rapid Iteration and Model Updates
+The report finds that more than 50% of respondents update their AI models at least monthly. This rapid iteration pace points to the dynamic nature of AI deployments and the need to keep models aligned with evolving data and user requirements.
+
+Expanding Use Cases Across Teams
+94% of teams utilize large language models (LLMs) for at least two different use cases, with 82% supporting three or more use cases. This multi-functionality trend indicates that LLMs are becoming versatile tools across internal and external applications such as code generation, writing assistance, and customer service.
+
+Emerging Domains and Trends
+Audio AI is poised for a significant adoption wave, with 37% planning to incorporate audio capabilities soon. Additionally, 41% of teams engage in fine-tuning models (including LoRA/QLoRA methods), revealing a maturing engineering approach beyond API usage toward customizing AI for specialized tasks.
+
